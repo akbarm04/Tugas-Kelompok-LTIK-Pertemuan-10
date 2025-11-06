@@ -4,9 +4,9 @@
 def perkenalan_akbar():
     print("- Anggota 1 (Akbar): [Saya Akbar Maulana sebagai Project Manager disini....]")
 
-# Kontribusi Anggota 2 (namakalian2)
-def perkenalan_namakalian2():
-    print("- Anggota 2 (namakalian2): [Masukkan deskripsi unik namakalian2 di sini]")
+# Kontribusi Anggota 2 (Danish)
+def perkenalan_danish():
+    print("- Anggota 2 (Danish): [Saya Danish Azizi sebagai anggota disini....]")
 
 # Kontribusi Anggota 3 (namakalian3)
 def perkenalan_namakalian3():
@@ -28,7 +28,7 @@ def main():
 
     # Panggil semua fungsi di sini
     perkenalan_akbar()
-    perkenalan_namakalian2()
+    perkenalan_danish()
     perkenalan_namakalian3()
     perkenalan_namakalian4()
     perkenalan_namakalian5()
