@@ -14,7 +14,7 @@ def perkenalan_namakalian3():
 
 # Kontribusi Anggota 4 (namakalian4)
 def perkenalan_namakalian4():
-    print("- Anggota 4 (namakalian4): [Masukkan deskripsi unik Mira di sini]")
+    print("- Anggota 4 (namakalian4): [Masukkan deskripsi unik namakalian4 di sini]")
 
 # Kontribusi Anggota 5 (namakalian5)
 def perkenalan_namakalian5():
