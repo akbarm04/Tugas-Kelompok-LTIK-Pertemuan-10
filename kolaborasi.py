@@ -17,7 +17,7 @@ def perkenalan_namakalian4():
     print("- Anggota 4 (namakalian4): [Masukkan deskripsi unik namakalian4 di sini]")
 
 # Kontribusi Anggota 5 (Tsabitah Ardelia Wahyudi)
-def perkenalan_namakalian5():
+def perkenalan_tsabitah():
     print("- Anggota 5 (Tsabitah Ardelia Wahyudi): [Saya Tsabitah Ardelia Wahyudi sebagai anggota di sini ....]")
 
 
@@ -31,7 +31,7 @@ def main():
     perkenalan_danish()
     perkenalan_namakalian3()
     perkenalan_namakalian4()
-    perkenalan_namakalian5()
+    perkenalan_tsabitah()
 
 
 if __name__ == "__main__":
