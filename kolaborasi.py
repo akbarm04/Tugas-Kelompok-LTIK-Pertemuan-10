@@ -23,7 +23,7 @@ def perkenalan_namakalian5():
 
 
 def main():
-    print("--- Proyek Kolaborasi Kelompok RLIIS ---")
+    print("--- Proyek Kolaborasi Kelompok LTIK ---")
     print("Anggota yang berkontribusi:")
 
     # Panggil semua fungsi di sini
