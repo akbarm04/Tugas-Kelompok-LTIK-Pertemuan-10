@@ -12,9 +12,9 @@ def perkenalan_danish():
 def perkenalan_fadhil():
     print("- Anggota 3 (Fadhil): [Saya Muhammad Fadhil As-Syamil sebagai anggota disini....]")
 
-# Kontribusi Anggota 4 (namakalian4)
-def perkenalan_namakalian4():
-    print("- Anggota 4 (namakalian4): [Masukkan deskripsi unik namakalian4 di sini]")
+# Kontribusi Anggota 4 (Mira Rachma Puspita Dewi)
+def perkenalan_mira():
+    print("- Anggota 4 (Mira Rachma Puspita Dewi): [Saya Mira Rachma Puspita Dewi]")
 
 # Kontribusi Anggota 5 (Tsabitah Ardelia Wahyudi)
 def perkenalan_tsabitah():
@@ -30,7 +30,7 @@ def main():
     perkenalan_akbar()
     perkenalan_danish()
     perkenalan_fadhil()
-    perkenalan_namakalian4()
+    perkenalan_mira()
     perkenalan_tsabitah()
 
 
